@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="zero">0</string>
+    <string-array name="valores_iniciais">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+</resources>
